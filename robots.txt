@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etortch.github.io/sitemap.html.gz
+Sitemap: https://etortch.github.io/app/sitemap.html.gz
+Sitemap: https://etortch.github.io/assets/sitemap.html.gz
+Sitemap: https://etortch.github.io/css/sitemap.html.gz
+Sitemap: https://etortch.github.io/data/sitemap.html.gz
+Sitemap: https://etortch.github.io/includes/sitemap.html.gz
+Sitemap: https://etortch.github.io/item/sitemap.html.gz
+Sitemap: https://etortch.github.io/src/sitemap.html.gz
